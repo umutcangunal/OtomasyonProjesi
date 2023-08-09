@@ -1,0 +1,105 @@
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi\Otobüsrojesi\bin\Debug\Otobüsrojesi.exe.config
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi\Otobüsrojesi\bin\Debug\Otobüsrojesi.exe
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi\Otobüsrojesi\bin\Debug\Otobüsrojesi.pdb
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi\Otobüsrojesi\obj\Debug\Otobüsrojesi.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form1.resources
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form2.resources
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi\Otobüsrojesi\obj\Debug\Otobüsrojesi.Properties.Resources.resources
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi\Otobüsrojesi\obj\Debug\Otobüsrojesi.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi\Otobüsrojesi\obj\Debug\Otobüsrojesi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi\Otobüsrojesi\obj\Debug\Otobüsrojesi.exe
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi\Otobüsrojesi\obj\Debug\Otobüsrojesi.pdb
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form3.resources
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form4.resources
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form5.resources
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form6.resources
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form7.resources
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form8.resources
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form10.resources
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form11.resources
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form12.resources
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form9.resources
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi - Kopya\Otobüsrojesi\bin\Debug\Otobüsrojesi.exe.config
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi - Kopya\Otobüsrojesi\bin\Debug\Otobüsrojesi.exe
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi - Kopya\Otobüsrojesi\bin\Debug\Otobüsrojesi.pdb
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi - Kopya\Otobüsrojesi\obj\Debug\Otobüsrojesi.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi - Kopya\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form1.resources
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi - Kopya\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form10.resources
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi - Kopya\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form11.resources
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi - Kopya\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form12.resources
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi - Kopya\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form2.resources
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi - Kopya\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form3.resources
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi - Kopya\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form4.resources
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi - Kopya\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form5.resources
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi - Kopya\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form6.resources
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi - Kopya\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form7.resources
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi - Kopya\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form8.resources
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi - Kopya\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form9.resources
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi - Kopya\Otobüsrojesi\obj\Debug\Otobüsrojesi.Properties.Resources.resources
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi - Kopya\Otobüsrojesi\obj\Debug\Otobüsrojesi.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi - Kopya\Otobüsrojesi\obj\Debug\Otobüsrojesi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi - Kopya\Otobüsrojesi\obj\Debug\Otobüsrojesi.exe
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi - Kopya\Otobüsrojesi\obj\Debug\Otobüsrojesi.pdb
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi - sql\Otobüsrojesi\bin\Debug\Otobüsrojesi.exe.config
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi - sql\Otobüsrojesi\bin\Debug\Otobüsrojesi.exe
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi - sql\Otobüsrojesi\bin\Debug\Otobüsrojesi.pdb
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form1.resources
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form10.resources
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form11.resources
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form12.resources
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form2.resources
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form3.resources
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form4.resources
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form5.resources
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form6.resources
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form7.resources
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form8.resources
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form9.resources
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.Properties.Resources.resources
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.exe
+C:\Users\HP\Desktop\BİLGİSAYAR PROGRAMCILIĞI 2.SINIF\görsel prog\final proje\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.pdb
+C:\Users\Umutcan\Desktop\Otobüsrojesi - sql (1)\Otobüsrojesi - sql\Otobüsrojesi\bin\Debug\Otobüsrojesi.exe.config
+C:\Users\Umutcan\Desktop\Otobüsrojesi - sql (1)\Otobüsrojesi - sql\Otobüsrojesi\bin\Debug\Otobüsrojesi.exe
+C:\Users\Umutcan\Desktop\Otobüsrojesi - sql (1)\Otobüsrojesi - sql\Otobüsrojesi\bin\Debug\Otobüsrojesi.pdb
+C:\Users\Umutcan\Desktop\Otobüsrojesi - sql (1)\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.csprojAssemblyReference.cache
+C:\Users\Umutcan\Desktop\Otobüsrojesi - sql (1)\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form1.resources
+C:\Users\Umutcan\Desktop\Otobüsrojesi - sql (1)\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form10.resources
+C:\Users\Umutcan\Desktop\Otobüsrojesi - sql (1)\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form11.resources
+C:\Users\Umutcan\Desktop\Otobüsrojesi - sql (1)\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form12.resources
+C:\Users\Umutcan\Desktop\Otobüsrojesi - sql (1)\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form2.resources
+C:\Users\Umutcan\Desktop\Otobüsrojesi - sql (1)\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form3.resources
+C:\Users\Umutcan\Desktop\Otobüsrojesi - sql (1)\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form4.resources
+C:\Users\Umutcan\Desktop\Otobüsrojesi - sql (1)\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form5.resources
+C:\Users\Umutcan\Desktop\Otobüsrojesi - sql (1)\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form6.resources
+C:\Users\Umutcan\Desktop\Otobüsrojesi - sql (1)\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form7.resources
+C:\Users\Umutcan\Desktop\Otobüsrojesi - sql (1)\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form8.resources
+C:\Users\Umutcan\Desktop\Otobüsrojesi - sql (1)\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form9.resources
+C:\Users\Umutcan\Desktop\Otobüsrojesi - sql (1)\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.Properties.Resources.resources
+C:\Users\Umutcan\Desktop\Otobüsrojesi - sql (1)\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.csproj.GenerateResource.cache
+C:\Users\Umutcan\Desktop\Otobüsrojesi - sql (1)\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.csproj.CoreCompileInputs.cache
+C:\Users\Umutcan\Desktop\Otobüsrojesi - sql (1)\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.exe
+C:\Users\Umutcan\Desktop\Otobüsrojesi - sql (1)\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.pdb
+C:\Users\Umutcan\Desktop\Otobüsrojesi - sql 12\Otobüsrojesi - sql\Otobüsrojesi\bin\Debug\Otobüsrojesi.exe.config
+C:\Users\Umutcan\Desktop\Otobüsrojesi - sql 12\Otobüsrojesi - sql\Otobüsrojesi\bin\Debug\Otobüsrojesi.exe
+C:\Users\Umutcan\Desktop\Otobüsrojesi - sql 12\Otobüsrojesi - sql\Otobüsrojesi\bin\Debug\Otobüsrojesi.pdb
+C:\Users\Umutcan\Desktop\Otobüsrojesi - sql 12\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.csprojAssemblyReference.cache
+C:\Users\Umutcan\Desktop\Otobüsrojesi - sql 12\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form1.resources
+C:\Users\Umutcan\Desktop\Otobüsrojesi - sql 12\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form10.resources
+C:\Users\Umutcan\Desktop\Otobüsrojesi - sql 12\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form11.resources
+C:\Users\Umutcan\Desktop\Otobüsrojesi - sql 12\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form12.resources
+C:\Users\Umutcan\Desktop\Otobüsrojesi - sql 12\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form2.resources
+C:\Users\Umutcan\Desktop\Otobüsrojesi - sql 12\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form3.resources
+C:\Users\Umutcan\Desktop\Otobüsrojesi - sql 12\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form4.resources
+C:\Users\Umutcan\Desktop\Otobüsrojesi - sql 12\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form5.resources
+C:\Users\Umutcan\Desktop\Otobüsrojesi - sql 12\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form6.resources
+C:\Users\Umutcan\Desktop\Otobüsrojesi - sql 12\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form7.resources
+C:\Users\Umutcan\Desktop\Otobüsrojesi - sql 12\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form8.resources
+C:\Users\Umutcan\Desktop\Otobüsrojesi - sql 12\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.Form9.resources
+C:\Users\Umutcan\Desktop\Otobüsrojesi - sql 12\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.Properties.Resources.resources
+C:\Users\Umutcan\Desktop\Otobüsrojesi - sql 12\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.csproj.GenerateResource.cache
+C:\Users\Umutcan\Desktop\Otobüsrojesi - sql 12\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.csproj.CoreCompileInputs.cache
+C:\Users\Umutcan\Desktop\Otobüsrojesi - sql 12\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.exe
+C:\Users\Umutcan\Desktop\Otobüsrojesi - sql 12\Otobüsrojesi - sql\Otobüsrojesi\obj\Debug\Otobüsrojesi.pdb
